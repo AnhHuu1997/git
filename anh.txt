@@ -5,6 +5,7 @@ nguyen huu anh
 -Hello
 -jhk
 anhdaica
+<<<<<<< HEAD
 =======
 
 >>>>>>> parent of 70a9901... Sua
@@ -12,3 +13,7 @@ anhdaica
 
 >>>>>>> parent of 70a9901... Sua
 hayy
+=======
+hay
+ok
+>>>>>>> 01c60077bf67afe3acca35db4beda2820e60499f
